@@ -1,11 +1,11 @@
 # Site settings
 author: Joseph Sesti
-title: 
+title: My Ruby Project
 header-img: img/home-bg.png
 email: sestijoey63@gmail.com
 copyright_name: Joseph Sesti
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CLI with Scraping
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Enemy-Stand
